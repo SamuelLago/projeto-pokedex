@@ -30,8 +30,6 @@ A tela principal contém:
 - Um texto de instrução
 - Três imagens interativas representando Pedra, Papel e Tesoura
 
-## 🛠️ Como rodar o projeto
-
 ## 📚 Aprendizado
 Esse projeto aborda conceitos iniciais como:
 
