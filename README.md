@@ -43,6 +43,10 @@ Layouts responsivos e alinhamentos
 
 Utilização de assets locais
 
+## Pictures
+![foto_2](https://github.com/user-attachments/assets/ad4ee528-d39f-4c99-a3a2-f1585ec2e100)
+![foto_1](https://github.com/user-attachments/assets/953450cb-3045-4c02-9bdd-479cfbb250d7)
+
 ## Link para Acessar a Pokedex
 
 https://projeto-pokedex-ashen.vercel.app/
