@@ -32,7 +32,15 @@ A tela principal contém:
 
 ## 🛠️ Como rodar o projeto
 
-1. Clone o repositório:
+## 📚 Aprendizado
+Esse projeto aborda conceitos iniciais como:
 
-```bash
-git clone https://github.com/seu-usuario/jokenpo-flutter.git
+Estruturação de widgets
+
+Stateful vs Stateless Widgets
+
+Navegação e organização de arquivos
+
+Layouts responsivos e alinhamentos
+
+Utilização de assets locais
