@@ -42,3 +42,7 @@ Navegação e organização de arquivos
 Layouts responsivos e alinhamentos
 
 Utilização de assets locais
+
+## Link para Acessar a Pokedex
+
+https://projeto-pokedex-ashen.vercel.app/
