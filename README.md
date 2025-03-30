@@ -1,5 +1,3 @@
-# Conteúdo do README.md
-readme_content = """
 # 🪨📄✂️ JokenPo App em Flutter
 
 Este projeto é uma aplicação mobile desenvolvida com **Flutter** que simula o tradicional jogo **JokenPo (Pedra, Papel e Tesoura)**, permitindo que o usuário jogue contra o aplicativo.
