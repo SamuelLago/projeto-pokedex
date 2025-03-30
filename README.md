@@ -1,5 +1,3 @@
-from pathlib import Path
-
 # Conteúdo do README.md
 readme_content = """
 # 🪨📄✂️ JokenPo App em Flutter
